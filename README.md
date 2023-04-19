@@ -18,3 +18,6 @@ or Run by docker compose
 test
 
 run by akshay
+
+with docker build 
+and docker compose test cases
