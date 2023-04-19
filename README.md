@@ -21,3 +21,4 @@ run by akshay
 
 with docker build 
 and docker compose test cases
+run now
